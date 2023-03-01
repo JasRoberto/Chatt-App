@@ -44,7 +44,6 @@ img {
 }
 .phone1 {
   width: 250px;
-  height: 500px;
   background-color: #f5f3f8;
   border-radius: 30px;
   border: solid 12px white;
@@ -224,6 +223,7 @@ img {
 }
 .formulario {
   position: relative;
+  margin-bottom: 8px;
 }
 .btn {
   top: 4px;
@@ -278,9 +278,7 @@ img {
   .main {
     overflow: initial;
   }
-  .phone1 {
-    height: 500px;
-  }
+
   .app-container {
     grid-template-columns: 1fr;
     gap: 20px;
