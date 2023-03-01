@@ -44,7 +44,7 @@ img {
 }
 .phone1 {
   width: 250px;
-  height: 510px;
+  height: 500px;
   background-color: #f5f3f8;
   border-radius: 30px;
   border: solid 12px white;
@@ -279,7 +279,7 @@ img {
     overflow: initial;
   }
   .phone1 {
-    height: 485px;
+    height: 500px;
   }
   .app-container {
     grid-template-columns: 1fr;
