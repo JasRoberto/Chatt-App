@@ -281,11 +281,11 @@ img {
   .app-container {
     grid-template-columns: 1fr;
     gap: 40px;
-    margin-top: 40px;
-    padding: 40px;
+    padding: 0px 40px;
     transform: scale(1);
   }
   .smart-content {
+    margin-bottom: 30px;
     text-align: center;
   }
   .smart-content h2 {
@@ -301,8 +301,8 @@ img {
     display: none;
   }
   .box-top {
-    height: 400px;
-    width: 350px;
+    height: 700px;
+    width: 650px;
   }
 }
 @keyframes pulse {
